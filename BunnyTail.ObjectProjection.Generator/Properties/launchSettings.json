@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BunnyTail.ObjectProjection.Generator": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\Develop\\Develop.csproj"
+    }
+  }
+}
