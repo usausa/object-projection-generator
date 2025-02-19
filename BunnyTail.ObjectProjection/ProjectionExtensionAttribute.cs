@@ -3,6 +3,6 @@ namespace BunnyTail.ObjectProjection;
 using System;
 
 [AttributeUsage(AttributeTargets.Method)]
-public sealed class CustomMethodAttribute : Attribute
+public sealed class ProjectionExtensionAttribute : Attribute
 {
 }
