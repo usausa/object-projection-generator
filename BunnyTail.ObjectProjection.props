@@ -1,7 +1,2 @@
 <Project>
-
-  <ItemGroup>
-    <CompilerVisibleProperty Include="TemplateLibraryGeneratorValue" />
-  </ItemGroup>
-
 </Project>
