@@ -6,11 +6,11 @@
     <File Path="Analyzers.ruleset" />
     <File Path="BunnyTail.ObjectProjection.props" />
     <File Path="BunnyTail.ObjectProjection.sln.DotSettings" />
+    <File Path="CodeCoverage.runsettings" />
     <File Path="Directory.Build.props" />
     <File Path="Directory.Build.targets" />
     <File Path="LICENSE" />
     <File Path="README.md" />
-    <File Path="test.runsettings" />
   </Folder>
   <Project Path="BunnyTail.ObjectProjection/BunnyTail.ObjectProjection.csproj">
     <BuildDependency Project="BunnyTail.ObjectProjection.Generator/BunnyTail.ObjectProjection.Generator.csproj" />
